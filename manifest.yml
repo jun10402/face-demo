@@ -1,6 +1,6 @@
 applications:
 - name: facedetect-oxford
-  memory: 64M
+  memory: 128M
   env:
     AZURE_API_KEY: specify-your-api-key
   stackato:
