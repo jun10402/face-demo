@@ -2,7 +2,7 @@ applications:
 - name: facedemo
   memory: 128M
   env:
-    AZURE_API_KEY: specify-your-api-key
+    AZURE_API_KEY: 74735322b64141c28e4c5ad5c3d46b5f
   stackato:
     requirements:
       staging:
